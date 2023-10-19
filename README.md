@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am currently working on my personal projects in parallel with my job as a SOC Analyst.
+Hi there 👋 
+I ❤️ Web & Mobile App.
 
 
 # 💻 Tech Stack:
